@@ -17,7 +17,7 @@
 ## 🔹 Goals
 - 📌 Master programming fundamentals  
 - 📌 Build projects to showcase on GitHub  
-- 📌 Achieve a strong GPA + industry skills  
+- 📌 Achieve a industry skills  
 - 📌 Become a future Software Engineer 🚀  
 
 ---
