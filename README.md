@@ -6,7 +6,7 @@
 🌱 Interested in Software Engineering & AI  
 
 ## 🔹 What I'm Working On
-- C++ practice programs (C++-Practice repo)  
+- C++ practice programs (C++ Practice repo)  
 - Learning OOP concepts (Classes, Objects, Constructors)  
 - Preparing for future projects and internships  
 
